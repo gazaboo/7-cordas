@@ -44,12 +44,12 @@ const lessonsDataFromExternalFile = [
         "Realizar os exercícios de frente para um espelho para observar a posição e o movimento da mão."
       ],
       "tags": [
-        "Dedilhado",
         "Levada",
         "Toque Simultâneo",
-        "Técnica De Mão Direita",
         "Abel Carlevaro",
-        "Exercícios De Velocidade"
+        "Exercícios de Velocidade",
+        "Técnica de Mão Direita",
+        "Dedilhado"
       ]
     }
   },
@@ -86,12 +86,12 @@ const lessonsDataFromExternalFile = [
         "Praticar em frente ao espelho para garantir que a mão direita está na posição correta e que os movimentos dos dedos estão sendo feitos de forma completa e eficiente (dedo inteiro)."
       ],
       "tags": [
-        "Dedilhado",
-        "Técnica De Mão Direita",
+        "Postura da Mão",
+        "Levada",
         "Choro",
+        "Técnica de Mão Direita",
         "Ritmo",
-        "Postura Da Mão",
-        "Levada"
+        "Dedilhado"
       ]
     }
   },
@@ -125,11 +125,11 @@ const lessonsDataFromExternalFile = [
         "**Exercício de Lixamento e Toque com Lixa:** Utilizar uma lixa fina (granulatura 500 a 2000, ou lixas de polir unhas com vários lados) para criar uma 'rampa' na parte esquerda das unhas (indicador, médio e anelar), desbastando-as levemente. Em seguida, posicionar a lixa sob as cordas (na corda Mi para começar) e praticar o movimento de trazer o dedo (indicador, médio, anelar) em direção à palma da mão, puxando a corda suavemente. Focar em movimentos lentos e relaxados, sem forçar ou sentir dor, para adaptar a unha ao toque."
       ],
       "tags": [
-        "Violão 7 Cordas",
-        "Postura Violão",
-        "Técnica Mão Direita",
-        "Independência Dos Dedos",
-        "Unhas Violão"
+        "violão 7 cordas",
+        "técnica mão direita",
+        "Independência dos Dedos",
+        "unhas violão",
+        "postura violão"
       ]
     }
   },
@@ -163,9 +163,9 @@ const lessonsDataFromExternalFile = [
         "Incorporar o metrônomo no exercício de equalização, começando em um andamento lento (sugerido 100 BPM), e praticando o toque e o apoio no tempo certo, tanto na ida (ascendente nas casas) quanto na volta (descendente nas casas)."
       ],
       "tags": [
-        "Técnica De Mão Direita",
         "Projeção Sonora",
-        "Equalização Sonora"
+        "Equalização Sonora",
+        "Técnica de Mão Direita"
       ]
     }
   },
@@ -207,14 +207,15 @@ const lessonsDataFromExternalFile = [
         "Exagerar o movimento do dedo em direção à palma da mão e seu retorno para garantir a internalização do movimento correto e a precisão do toque."
       ],
       "tags": [
-        "Técnica Avançada",
+        "técnica de mão direita",
         "Dedeira",
-        "Técnica De Mão Direita",
-        "Toque Com Apoio",
-        "Violão De 7 Cordas",
         "Abel Carlevaro",
+        "Técnica de Mão Direita",
         "Metrônomo",
-        "Polegar"
+        "polegar",
+        "técnica avançada",
+        "violão de 7 cordas",
+        "toque com apoio"
       ]
     }
   },
@@ -264,13 +265,13 @@ const lessonsDataFromExternalFile = [
         "Pare a prática e comunique ao professor Gian Correa imediatamente se sentir qualquer dor ou incômodo repetitivo no braço, ombro, mão ou dedos (20:15)."
       ],
       "tags": [
-        "Violão 7 Cordas",
-        "Técnica De Mão Direita",
+        "técnica de mão direita",
+        "violão 7 cordas",
         "Metrônomo",
-        "Independência Dos Dedos",
-        "Prevenção De Lesões",
-        "Prática Diária",
-        "Preparo Das Unhas"
+        "prevenção de lesões",
+        "Preparo das Unhas",
+        "Independência dos Dedos",
+        "prática diária"
       ]
     }
   },
@@ -313,8 +314,8 @@ const lessonsDataFromExternalFile = [
         "Manter a mão direita relaxada e parada, como um 'organismo consciente', permitindo que apenas os dedos se movam ao tocar as cordas. Usar um espelho para verificar o movimento da mão."
       ],
       "tags": [
-        "Técnica De Mão Direita",
-        "Abel Carlevaro"
+        "Abel Carlevaro",
+        "Técnica de Mão Direita"
       ]
     }
   },
@@ -369,9 +370,9 @@ const lessonsDataFromExternalFile = [
         "Exercício de Digitação (I, A, M, I) com Metrônomo (70 BPM): Praticar a sequência de digitação Index (I), Anelar (A), Médio (M), Index (I) em grupos de cordas (ex: 6ª-5ª, 4ª-3ª, 2ª-1ª). Para o movimento descendente, a sequência muda para Index (I), Médio (M), Anelar (A), Index (I). O toque deve ser contínuo e emendado, sem preparo do dedo (apoio) antes de cada nota, com a polpa e a unha quase simultaneamente. Fazer 4 repetições para cada casa/grupo de cordas. Progressão de andamento conforme segurança."
       ],
       "tags": [
-        "Técnica De Mão Direita",
         "Postura (Geral)",
-        "Independência Dos Dedos"
+        "Independência dos Dedos",
+        "Técnica de Mão Direita"
       ]
     }
   },
@@ -416,11 +417,12 @@ const lessonsDataFromExternalFile = [
         "Realizar o exercício por aproximadamente 10 a 13 minutos diariamente, com o polegar sempre apoiado na corda ré para manter a estabilidade."
       ],
       "tags": [
-        "Técnica De Mão Direita",
+        "técnica de mão direita",
+        "violão clássico",
         "Metrônomo",
-        "Prática De Violão",
-        "Violão Clássico",
-        "Exercícios De Digitação",
+        "Exercícios de Digitação",
+        "Técnica de Mão Direita",
+        "prática de violão",
         "Dedilhado"
       ]
     }
@@ -459,11 +461,12 @@ const lessonsDataFromExternalFile = [
         "Mão Esquerda (Observação): O polegar da mão esquerda deve apoiar na parte de trás do braço, sem 'enforcar' o instrumento. A base da mão deve ficar livre, sem encostar no braço. Os dedos que não estão em uso devem permanecer próximos à escala."
       ],
       "tags": [
-        "Violão 7 Cordas",
-        "Metodologia De Ensino",
-        "Progresso De Andamento",
-        "Técnica De Mão Direita",
-        "Postura Da Mão Esquerda"
+        "violão 7 cordas",
+        "técnica de mão direita",
+        "Postura da Mão Esquerda",
+        "Técnica de Mão Direita",
+        "progresso de andamento",
+        "Metodologia de Ensino"
       ]
     }
   },
@@ -498,10 +501,10 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Arpejos",
-        "Técnica De Mão Direita",
-        "Violao De 7 Cordas",
-        "Tecnica Da Mao Direita",
-        "Estabilidade Da Mão"
+        "Técnica de Mão Direita",
+        "Estabilidade da Mão",
+        "tecnica da mao direita",
+        "violao de 7 cordas"
       ]
     }
   },
@@ -543,15 +546,15 @@ const lessonsDataFromExternalFile = [
         "Para estudos de arpejos ou baixarias (como os de Carlevaro), concentre-se no movimento individual do polegar, pensando no toque ativo e controlado, utilizando tanto o apoio (para baixarias definidas) quanto a ausência de apoio (para passagens mais suaves ou em levadas). Lembre-se de integrar o peso do braço para maior projeção sonora, especialmente em situações como rodas de choro."
       ],
       "tags": [
+        "técnica de mão direita",
         "Digitação",
         "Dedeira",
-        "Técnica De Mão Direita",
-        "Violão De 7 Cordas",
         "Choro",
-        "Prática De Violão",
-        "Polegar",
-        "Samba",
-        "Música Instrumental"
+        "polegar",
+        "prática de violão",
+        "violão de 7 cordas",
+        "samba",
+        "música instrumental"
       ]
     }
   },
@@ -627,10 +630,10 @@ const lessonsDataFromExternalFile = [
         "Preste atenção ao movimento do polegar: ele deve tocar a corda e levantar imediatamente, sem descansar na corda adjacente, para desenvolver o toque sem apoio e a independência dos dedos."
       ],
       "tags": [
-        "Técnica De Mão Direita",
         "Agilidade",
-        "Exercícios De Digitação",
-        "Dedeira"
+        "Exercícios de Digitação",
+        "Dedeira",
+        "Técnica de Mão Direita"
       ]
     }
   },
@@ -686,9 +689,9 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Projeção Sonora",
-        "Técnica De Mão Direita",
         "Precisão",
         "Abel Carlevaro",
+        "Técnica de Mão Direita",
         "Dedilhado"
       ]
     }
@@ -729,9 +732,9 @@ const lessonsDataFromExternalFile = [
         "**Exercício 2 (Preparatório para o Exercício Chefe):** Com metronomo a 100 BPM, toque simultaneamente o polegar e o dedo com apoio. O polegar deve ser levantado acima da corda antes de tocar, e ao tocar, ele apoia na corda de baixo. Praticar nas cordas Lá (polegar + anelar), Mi (polegar + médio), e Dó (polegar + indicador). A mão deve permanecer flutuando, sem o apoio do dedo anelar na caixa do violão."
       ],
       "tags": [
-        "Técnica De Mão Direita",
         "Técnicas",
-        "Técnica De Polegar",
+        "Técnica de Polegar",
+        "Técnica de Mão Direita",
         "Dedeira"
       ]
     }
@@ -777,10 +780,10 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Digitação",
-        "Postura Violão",
-        "Violão De 7 Cordas",
-        "Técnica De Mão Esquerda",
-        "Prática Diária"
+        "técnica de mão esquerda",
+        "violão de 7 cordas",
+        "postura violão",
+        "prática diária"
       ]
     }
   },
@@ -810,14 +813,14 @@ const lessonsDataFromExternalFile = [
         "Observe e refine a posição da sua mão esquerda e a curvatura dos dedos ao longo de todo o braço do violão. A prática lenta serve para garantir que as notas soem cheias e com a força necessária ao tocar a corda de frente, sem que os dedos levantem antes da hora."
       ],
       "tags": [
-        "Técnica De Polegar",
-        "Sincronização De Mãos",
+        "postura",
+        "violão",
         "Dedos Alternados (Técnica)",
         "Metrônomo",
-        "Técnica De Mão Esquerda",
-        "Postura",
-        "Precisão Musical",
-        "Violão"
+        "técnica de mão esquerda",
+        "precisão musical",
+        "sincronização de mãos",
+        "técnica de polegar"
       ]
     }
   },
@@ -892,10 +895,10 @@ const lessonsDataFromExternalFile = [
         "Certifique-se de que a mão direita esteja utilizando o toque sem apoio (tirando o dedo da corda após feri-la), conforme aprendido anteriormente. Isso é crucial para a limpeza do som e para a transição suave entre as notas."
       ],
       "tags": [
-        "Concatenação Das Mãos",
-        "Postura Da Mão",
-        "Limpeza De Som",
-        "Técnica De Mão Esquerda"
+        "Postura da Mão",
+        "Limpeza de Som",
+        "Técnica de Mão Esquerda",
+        "Concatenação das Mãos"
       ]
     }
   },
@@ -940,14 +943,14 @@ const lessonsDataFromExternalFile = [
         "Concentre-se na técnica de 'martelado' (hammer-on implícito): ao pressionar a nota, 'ataque' a corda com firmeza, produzindo um som claro sem a necessidade de palhetar ou dedilhar novamente a corda com a mão direita para a nota pressionada."
       ],
       "tags": [
-        "Técnica",
-        "Técnica De Mão Direita",
-        "Violão Brasileiro",
-        "Violão De 7 Cordas",
+        "violão brasileiro",
         "Choro",
-        "Exercícios De Digitação",
-        "Concatenação Das Mãos",
-        "Mão Esquerda"
+        "Técnica de Mão Direita",
+        "técnica",
+        "Exercícios de Digitação",
+        "mão esquerda",
+        "violão de 7 cordas",
+        "Concatenação das Mãos"
       ]
     }
   },
@@ -1000,13 +1003,13 @@ const lessonsDataFromExternalFile = [
         "Para ambos os exercícios, utilize um metrônomo. Comece com um andamento lento e vá aumentando gradualmente, garantindo que a nota da ligadura (a segunda nota do par) caia exatamente no tempo do metrônomo para maximizar a projeção e clareza do som. Conforme a velocidade aumenta, este alinhamento é crucial para a articulação e musicalidade."
       ],
       "tags": [
-        "Projeção Sonora",
-        "Hammer-On",
-        "Pull-Off",
-        "Violão De 7 Cordas",
-        "Técnica De Mão Esquerda",
         "Dinâmica",
-        "Ligaduras"
+        "projeção sonora",
+        "técnica de mão esquerda",
+        "violão de 7 cordas",
+        "Hammer-on",
+        "Ligaduras",
+        "pull-off"
       ]
     }
   },
@@ -1056,17 +1059,17 @@ const lessonsDataFromExternalFile = [
         "Tocar os exercícios de escala lentamente, garantindo que cada nota ligada soe como se fosse tocada com a palheta/dedeira, para desenvolver tônus e precisão."
       ],
       "tags": [
-        "Hammer-On",
-        "Pull-Off",
-        "Escala De Ré Maior",
-        "Percepção Musical",
-        "Violão De 7 Cordas",
+        "Escala de Ré Maior",
+        "Escala de Fá Maior",
         "Choro",
-        "Técnica De Mão Esquerda",
-        "Escala De Lá Maior",
-        "Escala De Fá Maior",
+        "técnica de mão esquerda",
+        "Escala de Lá Maior",
+        "violão de 7 cordas",
+        "Hammer-on",
         "Escalas",
-        "Ligaduras"
+        "percepção musical",
+        "Ligaduras",
+        "pull-off"
       ]
     }
   },
@@ -1107,15 +1110,15 @@ const lessonsDataFromExternalFile = [
         "Utilizar um metrônomo: Iniciar com andamento lento (ex: 65 BPM, uma nota por tempo) e aumentar gradualmente a velocidade, sempre buscando um som uniforme e claro em todas as notas."
       ],
       "tags": [
-        "Técnica De Mão",
-        "Violão De 7 Cordas",
-        "Técnica De Violão",
+        "mão direita",
         "Choro",
-        "Mão Esquerda",
-        "Slurs",
-        "Mão Direita",
-        "Ligaduras",
-        "Escalas"
+        "técnica de violão",
+        "técnica de mão",
+        "mão esquerda",
+        "violão de 7 cordas",
+        "slurs",
+        "Escalas",
+        "Ligaduras"
       ]
     }
   },
@@ -1145,12 +1148,12 @@ const lessonsDataFromExternalFile = [
         "Utilizar metrônomo: Começar com um andamento lento (sugestão: 50 BPM) e garantir que a nota da ligadura (a segunda nota, que não é tocada pela mão direita) caia no pulso do metrônomo ('um e dois e'). A nota tocada pela mão direita deve ser tocada no 'e' (contratempo). Aumentar gradualmente o andamento em incrementos de 5 BPM, fazendo pelo menos 1-2 séries completas em cada andamento."
       ],
       "tags": [
-        "Projeção De Som",
-        "Violão De 7 Cordas",
-        "Técnica De Violão",
-        "Mão Esquerda",
-        "Pull-Offs",
+        "projeção de som",
+        "técnica de violão",
+        "mão esquerda",
+        "violão de 7 cordas",
         "Dinâmica",
+        "pull-offs",
         "Ligaduras"
       ]
     }
@@ -1185,12 +1188,12 @@ const lessonsDataFromExternalFile = [
         "Pratique este exercício em todas as cordas e em diferentes posições no braço do violão, para fortalecer e adaptar a técnica em toda a extensão."
       ],
       "tags": [
-        "Volume No Violão",
-        "Técnica De Mão Esquerda",
-        "Pull-Offs",
-        "Violão",
-        "Ligaduras",
-        "Técnica De Cordas"
+        "técnica de cordas",
+        "violão",
+        "volume no violão",
+        "técnica de mão esquerda",
+        "pull-offs",
+        "Ligaduras"
       ]
     }
   },
@@ -1244,15 +1247,15 @@ const lessonsDataFromExternalFile = [
         "Garantir que todas as partes do exercício estejam funcionando corretamente, com a mão direita e esquerda sincronizadas e as notas limpas e ligadas."
       ],
       "tags": [
+        "técnica de mão direita",
         "Arpejos",
-        "Técnica De Mão Direita",
         "Prática Musical",
-        "Violão De 7 Cordas",
+        "violão brasileiro",
         "Choro",
-        "Violão Brasileiro",
-        "Técnica De Mão Esquerda",
-        "Improvisação",
+        "técnica de mão esquerda",
         "Harmonia",
+        "Improvisação",
+        "violão de 7 cordas",
         "Escalas",
         "Ligaduras"
       ]
@@ -1303,13 +1306,13 @@ const lessonsDataFromExternalFile = [
         "Utilizar o metrônomo para manter um andamento constante e apenas aumentar a velocidade gradualmente, uma vez que a execução esteja perfeita em andamento lento. Não tocar rápido antes de dominar os detalhes."
       ],
       "tags": [
-        "Técnica De Dedo",
-        "Solos De Violão",
-        "Tutorial De Violão",
-        "Técnica De Violão",
-        "Mão Esquerda",
-        "Violão Clássico",
-        "Mão Direita",
+        "solos de violão",
+        "violão clássico",
+        "tutorial de violão",
+        "técnica de violão",
+        "técnica de dedo",
+        "mão esquerda",
+        "mão direita",
         "Ligaduras"
       ]
     }
@@ -1364,14 +1367,14 @@ const lessonsDataFromExternalFile = [
         "Observe-se no espelho durante a prática para autoavaliação da técnica e postura."
       ],
       "tags": [
-        "Hammer-On",
-        "Pull-Off",
-        "Técnica De Mão Direita",
-        "Técnica De Mão Esquerda",
+        "Técnica de Mão Direita",
+        "Exercícios de Digitação",
+        "Pull-off",
         "Ligadura",
-        "Exercícios De Digitação",
         "Coordenação Motora",
-        "Concatenação Das Mãos"
+        "Hammer-on",
+        "Técnica de Mão Esquerda",
+        "Concatenação das Mãos"
       ]
     }
   },
@@ -1419,10 +1422,10 @@ const lessonsDataFromExternalFile = [
         "Aplicar progressões de andamento (lento, médio, rápido) com o metrônomo para cada variação dos exercícios."
       ],
       "tags": [
-        "Concatenação Das Mãos",
         "Ligadura",
-        "Técnica De Mão Direita",
-        "Técnica De Mão Esquerda"
+        "Técnica de Mão Direita",
+        "Técnica de Mão Esquerda",
+        "Concatenação das Mãos"
       ]
     }
   },
@@ -1469,12 +1472,12 @@ const lessonsDataFromExternalFile = [
         "Iniciar o estudo com um metrônomo em andamento lento (sugerido 60 BPM) e, se necessário, diminuir ainda mais a velocidade para garantir a precisão antes de acelerar."
       ],
       "tags": [
-        "Técnica De Indicador",
-        "Técnica De Mão Direita",
-        "Terças",
-        "Violão De 7 Cordas",
+        "técnica de mão direita",
+        "terças",
+        "Técnica de Indicador",
         "Baixaria",
         "Metrônomo",
+        "violão de 7 cordas",
         "Escalas"
       ]
     }
@@ -1523,12 +1526,12 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Arpejos",
-        "Técnica De Indicador",
-        "Técnica De Mão Direita",
         "Choro",
         "Articulação",
-        "Técnica De Mão Esquerda",
-        "Concatenação Das Mãos"
+        "Técnica de Indicador",
+        "Técnica de Mão Direita",
+        "Técnica de Mão Esquerda",
+        "Concatenação das Mãos"
       ]
     }
   },
@@ -1580,14 +1583,14 @@ const lessonsDataFromExternalFile = [
         "Progressione o andamento (BPM) de cada exercício gradualmente (ex: comece em 50 BPM, avance para 55, depois 60, etc.) conforme se sentir confortável e consistente. O ideal é que se estude em progressões, não em um andamento fixo."
       ],
       "tags": [
-        "Técnica",
-        "Rotina De Estudo",
+        "violão",
+        "progressão",
         "Abel Carlevaro",
-        "Progressão",
-        "Prática De Violão",
-        "Violão",
-        "Mão Direita",
-        "Mão Esquerda"
+        "técnica",
+        "rotina de estudo",
+        "prática de violão",
+        "mão esquerda",
+        "mão direita"
       ]
     }
   },
@@ -1632,16 +1635,16 @@ const lessonsDataFromExternalFile = [
         "Utilizar o espelho constantemente para verificar e corrigir a postura do corpo, o posicionamento das mãos e a execução dos movimentos técnicos, garantindo relaxamento e prevenindo tensões."
       ],
       "tags": [
-        "Hammer-On",
         "Postura (Violão)",
         "Dedeira",
-        "Pull-Off",
-        "Técnica De Mão Direita",
-        "Técnica De Mão Esquerda",
+        "Técnica de Mão Direita",
+        "Pull-off",
         "Ligadura",
-        "Concatenação Das Mãos",
-        "Preparo Das Unhas",
-        "Martelada (Técnica)"
+        "Preparo das Unhas",
+        "Hammer-on",
+        "Martelada (Técnica)",
+        "Técnica de Mão Esquerda",
+        "Concatenação das Mãos"
       ]
     }
   },
@@ -1676,14 +1679,14 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Arpejos",
-        "Técnica De Mão Direita",
         "Choro",
         "Baixaria",
+        "Técnica de Mão Direita",
         "Harmonia",
-        "Técnica De Mão Esquerda",
         "Percepção Musical",
         "Teoria Musical",
-        "Dino 7 Cordas"
+        "Dino 7 Cordas",
+        "Técnica de Mão Esquerda"
       ]
     }
   },
@@ -1734,13 +1737,13 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Trítono",
+        "Inversões de Acordes",
         "Acorde Tônica",
         "Arpejos",
+        "Canto e Percepção",
+        "Percepção musical",
         "Harmonia",
-        "Inversões De Acordes",
-        "Canto E Percepção",
         "Acorde Dominante",
-        "Percepção Musical",
         "Teoria Musical",
         "Percepção"
       ]
@@ -1792,17 +1795,17 @@ const lessonsDataFromExternalFile = [
         "Ao praticar as cadências, tentar aplicar uma levada simples de choro ou samba, focando primeiro na troca limpa dos acordes e depois na levada."
       ],
       "tags": [
-        "Violão 7 Cordas",
-        "Progressão Harmônica",
-        "Violão Brasileiro",
-        "Acordes Dominantes",
+        "violão 7 cordas",
+        "progressão harmônica",
+        "violão brasileiro",
+        "quadrado",
         "Choro",
+        "teoria musical",
+        "Acordes Dominantes",
+        " II-V-I",
         "Harmonia",
-        "Quadrado",
-        "Ii-V-I",
-        "Teoria Musical",
+        "samba",
         "Acordes Menores",
-        "Samba",
         "Acordes"
       ]
     }
@@ -1856,15 +1859,15 @@ const lessonsDataFromExternalFile = [
         "Praticar a continuidade: mesmo que ocorram erros, não parar o exercício e tentar se reencontrar no ritmo e na harmonia, para desenvolver a fluidez da música popular."
       ],
       "tags": [
+        "Inversões de Acordes",
         "Arpejos",
-        "Técnica De Mão Direita",
+        "Percepção musical",
+        "Técnica de Mão Direita",
         "Harmonia",
-        "Técnica De Mão Esquerda",
-        "Inversões De Acordes",
-        "Percepção Musical",
-        "Ii-V-I",
+        " II-V-I",
         "Teoria Musical",
-        "Levada"
+        "Levada",
+        "Técnica de Mão Esquerda"
       ]
     }
   },
@@ -1913,12 +1916,12 @@ const lessonsDataFromExternalFile = [
         "Integrar o canto das notas e a visualização dos acordes e inversões enquanto pratica para desenvolver o pensamento musical e a percepção auditiva."
       ],
       "tags": [
+        "Inversões de Acordes",
         "Cadências",
         "Arpejos",
         "Cromatismo",
         "Choro",
         "Harmonia",
-        "Inversões De Acordes",
         "Bossa Nova",
         "Teoria Musical"
       ]
@@ -1958,15 +1961,15 @@ const lessonsDataFromExternalFile = [
         "Dedicar tempo para compreender a teoria por trás da contagem de semitons, especialmente as 'notas naturais' que não possuem sustenido/bemol (Mi-Fá e Si-Dó), para evitar confusões na formação dos graus harmônicos."
       ],
       "tags": [
-        "Semitons",
-        "Violão De 7 Cordas",
+        "progressões harmônicas",
+        "teoria musical",
         "Harmonia",
-        "Música Brasileira",
+        "semitons",
+        "música brasileira",
         "Graus Harmônicos",
-        "Progressões Harmônicas",
-        "Teoria Musical",
-        "Samba",
-        "Intervalos"
+        "violão de 7 cordas",
+        "intervalos",
+        "samba"
       ]
     }
   },
@@ -2009,17 +2012,17 @@ const lessonsDataFromExternalFile = [
         "Foque na digitação apresentada para os arpejos, especialmente no uso de arraste de dedo para andamentos mais rápidos (ligaduras)."
       ],
       "tags": [
+        "Inversões de Acordes",
         "Arpejos",
-        "Violão De 7 Cordas",
-        "Técnica De Violão",
         "Choro",
+        "teoria musical",
         "Metrônomo",
         "Harmonia",
-        "Inversões De Acordes",
-        "Teoria Musical",
+        "técnica de violão",
+        "violão de 7 cordas",
+        "samba",
         "Ligaduras",
         "Acordes Menores",
-        "Samba",
         "Acordes Maiores"
       ]
     }
@@ -2073,11 +2076,11 @@ const lessonsDataFromExternalFile = [
         "Experimentar diferentes formas de finalizar as frases de arpejo na tônica, como as variações com b9 ou b6 mencionadas, para explorar novas sonoridades."
       ],
       "tags": [
+        "Inversões de Acordes",
         "Arpejos",
         "Acordes Dominantes",
+        "Percepção musical",
         "Harmonia",
-        "Inversões De Acordes",
-        "Percepção Musical",
         "Dedilhado"
       ]
     }
@@ -2124,14 +2127,14 @@ const lessonsDataFromExternalFile = [
         "Transpor os exercícios para outras tonalidades, começando por um ou dois tons e avançando gradualmente, para desenvolver o ouvido interno e a capacidade de encontrar as notas dos acordes e seus arpejos/inversões no braço do violão. Não é necessário tocar 100% perfeito de imediato, o foco é a compreensão e o 'cantar na cabeça'."
       ],
       "tags": [
+        "Inversões de Acordes",
+        "violão",
         "Arpejos",
-        "Técnica De Violão",
+        "teoria musical",
         "Harmonia",
-        "Inversões De Acordes",
-        "Transposição",
-        "Violão",
-        "Percepção Musical",
-        "Teoria Musical",
+        "técnica de violão",
+        "percepção musical",
+        "transposição",
         "Acordes"
       ]
     }
@@ -2180,16 +2183,16 @@ const lessonsDataFromExternalFile = [
       ],
       "tags": [
         "Acompanhamento",
+        "Condução de Vozes",
         "Arpejos",
         "Progressão Harmônica",
+        "Acorde Meio-Diminuto (m7b5)",
+        " II-V-I",
         "Harmonia",
-        "Acorde Meio-Diminuto (M7B5)",
         "Acorde Meio-Diminuto",
         "Percepção Musical",
-        "Ii-V-I",
         "Teoria Musical",
-        "Acordes Menores",
-        "Condução De Vozes"
+        "Acordes Menores"
       ]
     }
   },
@@ -2232,16 +2235,16 @@ const lessonsDataFromExternalFile = [
         "Perceber as relações de distância (semitons/casas) entre as notas de cada acorde no braço do violão (ex: terça maior = 4 semitons; quinta justa = 7 semitons)."
       ],
       "tags": [
+        "Inversões de Acordes",
         "Arpejos",
-        "Violão De 7 Cordas",
-        "Técnica De Violão",
         "Choro",
+        "teoria musical",
         "Harmonia",
-        "Inversões De Acordes",
+        "técnica de violão",
         "Bossa Nova",
-        "Música Brasileira",
-        "Percepção Musical",
-        "Teoria Musical",
+        "música brasileira",
+        "violão de 7 cordas",
+        "percepção musical",
         "Acordes"
       ]
     }
@@ -2291,12 +2294,12 @@ const lessonsDataFromExternalFile = [
       "tags": [
         "Arpejos",
         "Padrões Melódicos",
-        "Violão De 7 Cordas",
-        "Técnica De Violão",
         "Choro",
         "Baixaria",
         "Harmonia",
-        "Percepção Musical",
+        "técnica de violão",
+        "violão de 7 cordas",
+        "percepção musical",
         "Escalas"
       ]
     }
@@ -2339,14 +2342,14 @@ const lessonsDataFromExternalFile = [
         "Aplicar os conceitos em todas as 12 tonalidades, focando nos 3 'tipos' de acorde diminuto enharmônico."
       ],
       "tags": [
-        "Técnica",
+        "Inversões de Acordes",
         "Arpejos",
-        "Violão De 7 Cordas",
+        "teoria musical",
         "Harmonia",
-        "Simetria Musical",
-        "Inversões De Acordes",
-        "Acordes Diminutos",
-        "Teoria Musical"
+        "técnica",
+        "simetria musical",
+        "violão de 7 cordas",
+        "Acordes Diminutos"
       ]
     }
   },
@@ -2474,14 +2477,14 @@ const lessonsDataFromExternalFile = [
         "Transpor os exercícios de escalas para outros tons, cantando e visualizando as notas."
       ],
       "tags": [
-        "Solfejo Rítmico",
+        "Exercícios de Ritmo",
         "Escala Mixolídia",
-        "Exercícios De Ritmo",
-        "Mão Esquerda",
-        "Visualização",
+        "método Gian Correa",
+        "percepção auditiva",
         "Escala Menor",
-        "Método Gian Correa",
-        "Percepção Auditiva",
+        "solfejo rítmico",
+        "visualização",
+        "mão esquerda",
         "Escala Maior",
         "Escala Cromática",
         "Escalas"
@@ -2520,21 +2523,21 @@ const lessonsDataFromExternalFile = [
         "Fazer a transição entre o acorde maior (Dó) e o dominante (Dó com Sétima) e sentir a mudança de 'cor' na escala utilizada, praticando com o violão e o canto."
       ],
       "tags": [
-        "Tempo",
-        "Escalas",
+        "sincopado",
         "Melodia",
+        "subdivisão",
         "Choro",
-        "Violão De 7 Cordas",
+        "teoria musical",
+        "violão de 7 cordas",
         "Harmonia",
-        "Samba",
-        "Ritmo",
-        "Teoria Musical",
-        "Contratempo",
-        "Percepção Musical",
-        "Sincopado",
-        "Pulso",
-        "Subdivisão",
-        "Percepção"
+        "ritmo",
+        "tempo",
+        "Percepção",
+        "percepção musical",
+        "Escalas",
+        "samba",
+        "pulso",
+        "contratempo"
       ]
     }
   },
@@ -2591,9 +2594,9 @@ const lessonsDataFromExternalFile = [
         "Com base nas anotações, analisar as diferenças entre as escalas e as alterações que ocorrem nas escalas dominantes (ex: o Bmol9 e o Bmol13)."
       ],
       "tags": [
-        "Técnica De Acompanhamento",
         "Harmonia",
         "Ritmo",
+        "Técnica de Acompanhamento",
         "Escalas",
         "Teoria Musical",
         "Intervalos"
@@ -2684,21 +2687,21 @@ const lessonsDataFromExternalFile = [
         "Tente aplicar esses exercícios para identificar o ponto de partida exato de frases melódicas e baixarias em músicas brasileiras, percebendo como a frase se encaixa nas subdivisões, mesmo que não comece na primeira nota do tempo."
       ],
       "tags": [
-        "Metodologia De Ensino",
-        "Treinamento Auditivo",
-        "Forró",
+        "treinamento auditivo",
+        "Exercícios de Ritmo",
         "Baião",
-        "Violão De 7 Cordas",
+        "percepção rítmica",
+        "subdivisão rítmica",
         "Choro",
-        "Exercícios De Ritmo",
+        "teoria musical",
         "Baixaria",
-        "Ritmo",
-        "Percepção Rítmica",
-        "Música Brasileira",
+        "ritmo",
+        "música brasileira",
         "Maxixe",
-        "Subdivisão Rítmica",
-        "Teoria Musical",
-        "Samba"
+        "violão de 7 cordas",
+        "samba",
+        "Metodologia de Ensino",
+        "forró"
       ]
     }
   },
@@ -2803,14 +2806,14 @@ const lessonsDataFromExternalFile = [
       "tags": [
         "Arpejos",
         "Análise Musical",
+        "Percepção musical",
         "Baixaria",
         "Harmonia",
+        " II-V-I",
         "Campo Harmônico",
         "Ritmo",
         "Acorde Dominante",
         "Acorde Meio-Diminuto",
-        "Percepção Musical",
-        "Ii-V-I",
         "Samba"
       ]
     }
@@ -2852,15 +2855,15 @@ const lessonsDataFromExternalFile = [
         "Para cada novo conceito, pratique-o devagar, grave-se, e tente cantar/pensar nas notas e relações antes de tocar no instrumento."
       ],
       "tags": [
-        "Treino Auditivo",
-        "Violão De 7 Cordas",
         "Choro",
+        "teoria musical",
+        "treino auditivo",
         "Harmonia",
-        "Ritmo",
-        "Exercícios De Percepção",
-        "Percepção Musical",
-        "Teoria Musical",
-        "Samba"
+        "ritmo",
+        "Exercícios de Percepção",
+        "violão de 7 cordas",
+        "percepção musical",
+        "samba"
       ]
     }
   },
@@ -2897,10 +2900,10 @@ const lessonsDataFromExternalFile = [
         "Caso esqueça um trecho ou exercício, revisitar a aula em vídeo em vez de consultar anotações, para fortalecer a memória aural e mecânica."
       ],
       "tags": [
-        "Metodologia De Ensino",
         "Memória Mecânica",
+        "Percepção musical",
         "Memorização Musical",
-        "Percepção Musical",
+        "Metodologia de Ensino",
         "Percepção"
       ]
     }
@@ -2953,14 +2956,14 @@ const lessonsDataFromExternalFile = [
         "Cantar as notas e/ou os acordes enquanto pratica para desenvolver a percepção auditiva."
       ],
       "tags": [
+        "Inversões de Acordes",
         "Cadências",
         "Forró",
         "Arpejos",
         "Choro",
+        " II-V-I",
         "Harmonia",
-        "Inversões De Acordes",
         "Campo Harmônico",
-        "Ii-V-I",
         "Teoria Musical",
         "Samba",
         "Percepção"
@@ -3017,16 +3020,16 @@ const lessonsDataFromExternalFile = [
         "Realizar os exercícios em andamento lento, focando na memorização dos 'mapinhas' mentais dos acordes e das cadências, tanto visualmente no instrumento quanto sonoramente."
       ],
       "tags": [
-        "Violão 7 Cordas",
-        "Progressão De Acordes",
+        "violão 7 cordas",
         "Campo Harmônico Menor",
         "Choro",
+        "teoria musical",
+        " II-V-I",
         "Harmonia",
         "Improvisação",
-        "Música Brasileira",
-        "Ii-V-I",
-        "Teoria Musical",
-        "Samba",
+        "música brasileira",
+        "progressão de acordes",
+        "samba",
         "Acordes"
       ]
     }
@@ -3081,16 +3084,16 @@ const lessonsDataFromExternalFile = [
         "Executar todo o exercício (progressão e arpejos) nos 7 tons maiores, começando em andamento lento e aumentando a velocidade gradualmente com metrônomo."
       ],
       "tags": [
-        "Progressão De Acordes",
+        "técnica de mão direita",
         "Arpejos",
-        "Técnica De Mão Direita",
-        "Violão De 7 Cordas",
         "Choro",
+        "Ciclo de Quintas",
+        "teoria musical",
+        " II-V-I",
         "Harmonia",
-        "Ciclo De Quintas",
-        "Ii-V-I",
-        "Teoria Musical",
-        "Samba"
+        "violão de 7 cordas",
+        "progressão de acordes",
+        "samba"
       ]
     }
   },
@@ -3142,15 +3145,15 @@ const lessonsDataFromExternalFile = [
         "Realizar um processo investigativo: pegar um pedacinho de melodia de uma música e tentar 'fuçar' (explorar) a relação dela com a harmonia por trás."
       ],
       "tags": [
+        "Acordes",
         "Arpejos",
-        "Escalas",
-        "Violão De 7 Cordas",
+        "teoria musical",
         "Harmonia",
         "Improvisação",
-        "Música Brasileira",
-        "Acordes",
-        "Percepção Musical",
-        "Teoria Musical",
+        "música brasileira",
+        "violão de 7 cordas",
+        "percepção musical",
+        "Escalas",
         "Melodia"
       ]
     }
@@ -3190,11 +3193,11 @@ const lessonsDataFromExternalFile = [
         "Estudar a posição da mão no espelho para garantir que o pulso esteja relaxado e a mão 'caia' naturalmente para frente, sem forçar dobras laterais que possam causar dor. A mão deve estar ligeiramente na diagonal, com o polegar tendendo a entrar na boca do violão."
       ],
       "tags": [
+        "Postura da Mão",
         "Técnica",
-        "Técnica De Mão Direita",
-        "Preparo Das Unhas",
-        "Toque Com Apoio (Apoyando)",
-        "Postura Da Mão"
+        "Técnica de Mão Direita",
+        "Toque com Apoio (Apoyando)",
+        "Preparo das Unhas"
       ]
     }
   },
@@ -3243,16 +3246,16 @@ const lessonsDataFromExternalFile = [
         "Cante os intervalos ascendentes e descendentes dentro de uma oitava. Primeiro, cante a nota fundamental (dó) e depois a segunda (ré), a terça (mi), etc., ascendente e descendente, antes de tocar a nota no instrumento. Tente cantar antes de ouvir, para desenvolver a percepção interna."
       ],
       "tags": [
-        "Intervalos",
-        "Violão De 7 Cordas",
-        "Solfejo",
+        "subdivisão",
+        "teoria musical",
+        "solfejo",
         "Harmonia",
-        "Ritmo",
-        "Contratempo",
-        "Percepção Musical",
-        "Teoria Musical",
-        "Pulso",
-        "Subdivisão"
+        "ritmo",
+        "intervalos",
+        "violão de 7 cordas",
+        "percepção musical",
+        "pulso",
+        "contratempo"
       ]
     }
   },
@@ -3310,12 +3313,12 @@ const lessonsDataFromExternalFile = [
         "Coloque o vídeo em velocidade lenta e ouça atentamente a melodia da 'baixaria' (linha de baixo) para entender se ela se move por graus conjuntos ou arpejos."
       ],
       "tags": [
-        "Percepção Musical",
-        "Acorde Diminuto",
+        "Percepção musical",
+        "IV Grau Menor",
+        " II-V-I",
         "Harmonia",
         "Ritmo",
-        "Iv Grau Menor",
-        "Ii-V-I",
+        "Acorde Diminuto",
         "Teoria Musical",
         "Samba"
       ]
@@ -3357,10 +3360,10 @@ const lessonsDataFromExternalFile = [
         "Praticar cantar e bater o ritmo da levada base: 'um-ta-ki-ta-ta-ki-ta-ta-ki'."
       ],
       "tags": [
-        "Mpb",
         "Divisão Rítmica",
         "Análise Musical",
         "Ritmo",
+        "MPB",
         "Samba"
       ]
     }
