@@ -1,0 +1,4 @@
+*.mp4
+*cookies*
+*.env
+__pycache__
