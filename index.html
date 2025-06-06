@@ -1,34 +1,221 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8" />
-    <title>Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Aulas de Violão</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #004D40;
+            --secondary-color: #FFC107;
+            --accent-color: #00796B;
+            --background-color: #F5F5F5;
+            --card-background: #FFFFFF;
+            --text-color: #333333;
+            --light-text-color: #FFFFFF;
+            --border-radius: 12px;
+            --box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+            --error-color: #D32F2F;
+            /* A suitable red for errors */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        body {
+            height: 100%;
+            /* Ensure body takes full height for centering */
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            /* Allow header/footer if needed, centers main content */
+            align-items: center;
+            justify-content: center;
+            /* Center login box */
+            padding: 20px;
+        }
+
+        .login-container {
+            background-color: var(--card-background);
+            padding: 30px 40px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            width: 100%;
+            max-width: 400px;
+            /* Max width for the login box */
+            text-align: center;
+        }
+
+        .login-header {
+            margin-bottom: 30px;
+        }
+
+        .login-header h1 {
+            font-family: 'Montserrat', sans-serif;
+            color: var(--primary-color);
+            font-size: 2rem;
+            /* Slightly smaller than main page h1 */
+            margin-bottom: 8px;
+        }
+
+        .login-header p {
+            font-size: 1rem;
+            color: var(--text-color);
+            opacity: 0.8;
+        }
+
+        #login-form label {
+            display: block;
+            text-align: left;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--primary-color);
+            font-size: 0.9rem;
+        }
+
+        #login-form input[type="password"] {
+            width: 100%;
+            padding: 12px 15px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            /* Slightly smaller radius for form elements */
+            font-family: 'Open Sans', sans-serif;
+            font-size: 1rem;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        #login-form input[type="password"]:focus {
+            outline: none;
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px rgba(0, 121, 107, 0.2);
+            /* Accent color focus ring */
+        }
+
+        #login-form button[type="submit"] {
+            width: 100%;
+            padding: 12px 20px;
+            background-color: var(--accent-color);
+            color: var(--light-text-color);
+            border: none;
+            border-radius: 8px;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 600;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease, transform 0.1s ease;
+        }
+
+        #login-form button[type="submit"]:hover {
+            background-color: var(--primary-color);
+        }
+
+        #login-form button[type="submit"]:active {
+            transform: scale(0.98);
+        }
+
+        #error {
+            color: var(--error-color);
+            margin-top: 15px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            min-height: 1.2em;
+            /* Prevent layout shift when error appears/disappears */
+        }
+
+        /* Optional: A subtle brand mention or logo */
+        .brand-footer {
+            margin-top: 30px;
+            font-size: 0.85rem;
+            color: var(--text-color);
+            opacity: 0.6;
+        }
+
+        .brand-footer strong {
+            color: var(--primary-color);
+        }
+
+        @media (max-width: 480px) {
+            .login-container {
+                padding: 25px 20px;
+            }
+
+            .login-header h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Enter Password to Access</h1>
-    <form id="login-form">
-        <input type="password" id="password" placeholder="Password" />
-        <button type="submit">Enter</button>
-    </form>
-    <div id="error" style="color:red;"></div>
+    <div class="login-container">
+        <div class="login-header">
+            <h1>Acesso Restrito</h1>
+            <p>Aulas de Violão com Gian Correa</p>
+        </div>
+
+        <form id="login-form">
+            <label for="password">Senha de Acesso:</label>
+            <input type="password" id="password" placeholder="Digite sua senha" required />
+            <button type="submit">Entrar</button>
+        </form>
+
+        <div id="error"></div>
+
+        <div class="brand-footer">
+            Plataforma de Aulas <strong>Gian Correa</strong>
+        </div>
+    </div>
 
     <script>
         document.getElementById("login-form").addEventListener("submit", async (e) => {
             e.preventDefault();
-            const password = document.getElementById("password").value;
+            const passwordInput = document.getElementById("password");
+            const password = passwordInput.value;
+            const errorDiv = document.getElementById("error");
+            errorDiv.textContent = ""; // Clear previous errors
 
-            const res = await fetch("/.netlify/functions/authenticate", {
-                method: "POST",
-                body: JSON.stringify({ password }),
-            });
+            if (!password) {
+                errorDiv.textContent = "Por favor, insira a senha.";
+                passwordInput.focus();
+                return;
+            }
 
-            if (res.status === 200) {
-                localStorage.setItem("authenticated", "true");
-                window.location.href = "/aulas_protected.html";
-            } else {
-                document.getElementById("error").textContent = "Incorrect password.";
+            try {
+                const res = await fetch("/.netlify/functions/authenticate", {
+                    method: "POST",
+                    headers: {
+                        'Content-Type': 'application/json' // Good practice to set content type
+                    },
+                    body: JSON.stringify({ password }),
+                });
+
+                if (res.ok) { // Check for 2xx status codes
+                    localStorage.setItem("authenticated", "true");
+                    window.location.href = "/aulas_protected.html"; // Make sure this path is correct
+                } else {
+                    const data = await res.json().catch(() => ({})); // Try to parse error, default to empty object
+                    errorDiv.textContent = data.message || "Senha incorreta ou erro na autenticação.";
+                    passwordInput.focus();
+                }
+            } catch (err) {
+                console.error("Login request failed:", err);
+                errorDiv.textContent = "Erro ao tentar conectar. Tente novamente.";
             }
         });
     </script>
