@@ -3052,7 +3052,7 @@ const lessonsDataFromExternalFile = [
         }
     },
     {
-        "titulo_da_aula": "Não escreva! Aula Complementar",
+        "titulo_da_aula": "Módulo 4 ｜Não escreva! Aula Complementar",
         "video_url": "https://youtu.be/8-AjG9vpjWg?si=d1OL_kHxSilOblYo",
         "analysis": {
             "assunto_principal": "A memorização e compreensão musical através da audição e memória mecânica no violão de 7 cordas, desaconselhando o uso de anotações escritas para este fim.",
